@@ -1,0 +1,3 @@
+@echo off
+echo Starting XTwitter Agent (MCP + AgentOS)...
+python -m egile_agent_x_twitter.run_server
